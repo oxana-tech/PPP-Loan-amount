@@ -1,5 +1,4 @@
 # Small Business Loans in Ohio
-Small Business Loans in Ohio
 
 Tools: Excel (data), Tableau (visualization and dashboard).
 
